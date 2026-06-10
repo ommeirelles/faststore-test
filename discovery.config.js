@@ -17,7 +17,7 @@ module.exports = {
 
   // Platform specific configs for API
   api: {
-    storeId: "newstore",
+    storeId: "otaviointernal",
     workspace: "master",
     environment: "vtexcommercestable",
     hideUnavailableItems: true,
