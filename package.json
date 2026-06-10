@@ -7,7 +7,7 @@
     "dev": "faststore dev",
     "build": "faststore build",
     "start": "faststore start",
-    "cms-sync": "faststore cms-sync",
+    "cms-sync": "node ./scripts/sync.mjs",
     "test": "faststore test"
   },
   "dependencies": {
