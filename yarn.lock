@@ -681,9 +681,9 @@
   dependencies:
     fast-deep-equal "^3.1.3"
 
-"@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@78cc08f", "@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@5119125", "@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/api@78cc08f#3b0ef37f5cb2d674d2d6f673a52da536fa0bdcc7"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125#7d03e6b1dce6b238787a9e2eb186a5f4a3e6d06b"
   dependencies:
     "@graphql-tools/load-files" "^7.0.0"
     "@graphql-tools/merge" "9.1.1"
@@ -696,13 +696,13 @@
     p-limit "^3.1.0"
     sanitize-html "^2.11.0"
 
-"@faststore/cli@https://pkg.pr.new/vtex/faststore/@faststore/cli@78cc08f":
+"@faststore/cli@https://pkg.pr.new/vtex/faststore/@faststore/cli@5119125":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/cli@78cc08f#0a1375f0f4a8bb5ec83c14479c695319dae1ea17"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/cli@5119125#fb9a6d89bcd876b8d1e4e16490dd07d5258f7fbb"
   dependencies:
     "@antfu/ni" "0.21.12"
-    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
-    "@faststore/core" "https://pkg.pr.new/vtex/faststore/@faststore/core@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
+    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/core" "https://pkg.pr.new/vtex/faststore/@faststore/core@5119125208b69633b39bee5355f5a97807cbae39"
     "@graphql-codegen/cli" "6.1.1"
     "@graphql-tools/merge" "9.1.1"
     "@graphql-tools/utils" "10.10.1"
@@ -723,16 +723,16 @@
     prettier "^3.1.0"
     resolve-pkg "^3.0.0"
 
-"@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@78cc08f", "@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@5119125", "@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/components@78cc08f#be0500160b952f4cb06830c3fc47d7cddf765cbf"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/components@5119125#be0500160b952f4cb06830c3fc47d7cddf765cbf"
   dependencies:
     react-intersection-observer "^8.32.5"
     react-swipeable "^7.0.0"
 
-"@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@78cc08f", "@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@5119125", "@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/core@78cc08f#97f05dd923e4a838e86b53a9965bd260ffa63762"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/core@5119125#7c9c2311e030fa88aad2625d9ba832f6d62782bb"
   dependencies:
     "@antfu/ni" "0.21.12"
     "@builder.io/partytown" "^0.6.1"
@@ -740,11 +740,11 @@
     "@envelop/graphql-jit" "^11"
     "@envelop/parser-cache" "^10"
     "@envelop/validation-cache" "^10"
-    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
-    "@faststore/diagnostics" "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
-    "@faststore/lighthouse" "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
-    "@faststore/sdk" "https://pkg.pr.new/vtex/faststore/@faststore/sdk@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
-    "@faststore/ui" "https://pkg.pr.new/vtex/faststore/@faststore/ui@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
+    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/diagnostics" "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/lighthouse" "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/sdk" "https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/ui" "https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125208b69633b39bee5355f5a97807cbae39"
     "@graphql-codegen/cli" "6.1.1"
     "@graphql-codegen/client-preset" "4.2.6"
     "@graphql-codegen/typescript" "4.0.7"
@@ -788,9 +788,9 @@
     swr "^2.2.5"
     use-sync-external-store "^1.6.0"
 
-"@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@78cc08f", "@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125", "@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@78cc08f#d5c60cfd8af6585188606c51426fd2c6fadc995b"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125#a3920402809b3f71796e9c8ab2b447bc14cae4d7"
   dependencies:
     "@grpc/grpc-js" "^1.14.4"
     "@opentelemetry/api" "^1.9.0"
@@ -804,23 +804,23 @@
     "@opentelemetry/sdk-trace-node" "^2.8.0"
     "@vtex/diagnostics-semconv" "^5.1.1"
 
-"@faststore/lighthouse@https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/lighthouse@https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca#ebc5327c27ecd975227cd55e90d64c53e613b1c2"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@5119125208b69633b39bee5355f5a97807cbae39#ebc5327c27ecd975227cd55e90d64c53e613b1c2"
 
-"@faststore/sdk@https://pkg.pr.new/vtex/faststore/@faststore/sdk@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/sdk@https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/sdk@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca#4d907e0a44310d2129f5e873739b15c6c1de212b"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125208b69633b39bee5355f5a97807cbae39#4d907e0a44310d2129f5e873739b15c6c1de212b"
   dependencies:
     fast-deep-equal "^3.1.3"
     idb-keyval "^6"
     zustand "^5.0.5"
 
-"@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@78cc08f", "@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca":
+"@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125", "@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125208b69633b39bee5355f5a97807cbae39":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/ui@78cc08f#d6c0af5466b82c7e3c22757e1308e8ed892cee09"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125#74a094a14f6ff84950c866f519c643dd5dc2fa73"
   dependencies:
-    "@faststore/components" "https://pkg.pr.new/vtex/faststore/@faststore/components@78cc08f5bc7577f2a8746452c74ebdfc8aa24cca"
+    "@faststore/components" "https://pkg.pr.new/vtex/faststore/@faststore/components@5119125208b69633b39bee5355f5a97807cbae39"
     include-media "^2.0.0"
     modern-normalize "^1.1.0"
     react-swipeable "^7.0.0"

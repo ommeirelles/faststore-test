@@ -11,7 +11,7 @@
     "test": "faststore test"
   },
   "dependencies": {
-    "@faststore/cli": "https://pkg.pr.new/vtex/faststore/@faststore/cli@78cc08f",
+    "@faststore/cli": "https://pkg.pr.new/vtex/faststore/@faststore/cli@5119125",
     "graphql": "^16.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -26,13 +26,13 @@
     "typescript": "^5.9.3"
   },
   "resolutions": {
-    "@faststore/cli": "https://pkg.pr.new/vtex/faststore/@faststore/cli@78cc08f",
-    "@faststore/core": "https://pkg.pr.new/vtex/faststore/@faststore/core@78cc08f",
-    "@faststore/api": "https://pkg.pr.new/vtex/faststore/@faststore/api@78cc08f",
-    "@faststore/components": "https://pkg.pr.new/vtex/faststore/@faststore/components@78cc08f",
-    "@faststore/diagnostics": "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@78cc08f",
-    "@faststore/sdk": "npm i https://pkg.pr.new/vtex/faststore/@faststore/sdk@78cc08f",
-    "@faststore/ui": "https://pkg.pr.new/vtex/faststore/@faststore/ui@78cc08f"
+    "@faststore/cli": "https://pkg.pr.new/vtex/faststore/@faststore/cli@5119125",
+    "@faststore/core": "https://pkg.pr.new/vtex/faststore/@faststore/core@5119125",
+    "@faststore/api": "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125",
+    "@faststore/components": "https://pkg.pr.new/vtex/faststore/@faststore/components@5119125",
+    "@faststore/diagnostics": "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125",
+    "@faststore/sdk": "npm i https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125",
+    "@faststore/ui": "https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125"
   },
   "author": "VTEX"
 }
