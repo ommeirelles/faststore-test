@@ -11,7 +11,7 @@
     "test": "faststore test"
   },
   "dependencies": {
-    "@faststore/cli": "^4.2.0",
+    "@faststore/cli": "https://pkg.pr.new/vtex/faststore/@faststore/cli@a28c86b",
     "graphql": "^16.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -24,6 +24,15 @@
     "cypress-axe": "^1.5.0",
     "cypress-wait-until": "^2.0.1",
     "typescript": "^5.9.3"
+  },
+  "resolutions": {
+    "@faststore/cli": "https://pkg.pr.new/vtex/faststore/@faststore/cli@a28c86b",
+    "@faststore/core": "https://pkg.pr.new/vtex/faststore/@faststore/core@a28c86b",
+    "@faststore/api": "https://pkg.pr.new/vtex/faststore/@faststore/api@a28c86b",
+    "@faststore/components": "https://pkg.pr.new/vtex/faststore/@faststore/components@a28c86b",
+    "@faststore/diagnostics": "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@a28c86b",
+    "@faststore/sdk": "npm i https://pkg.pr.new/vtex/faststore/@faststore/sdk@a28c86b",
+    "@faststore/ui": "https://pkg.pr.new/vtex/faststore/@faststore/ui@a28c86b"
   },
   "author": "VTEX"
 }
