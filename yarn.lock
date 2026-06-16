@@ -681,9 +681,9 @@
   dependencies:
     fast-deep-equal "^3.1.3"
 
-"@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@5119125", "@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@cf12ca1", "@faststore/api@https://pkg.pr.new/vtex/faststore/@faststore/api@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125#7d03e6b1dce6b238787a9e2eb186a5f4a3e6d06b"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/api@cf12ca1#cb739517f55919a458ab95fe86b76c5f269b92db"
   dependencies:
     "@graphql-tools/load-files" "^7.0.0"
     "@graphql-tools/merge" "9.1.1"
@@ -696,13 +696,13 @@
     p-limit "^3.1.0"
     sanitize-html "^2.11.0"
 
-"@faststore/cli@https://pkg.pr.new/vtex/faststore/@faststore/cli@5119125":
+"@faststore/cli@https://pkg.pr.new/vtex/faststore/@faststore/cli@cf12ca1":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/cli@5119125#fb9a6d89bcd876b8d1e4e16490dd07d5258f7fbb"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/cli@cf12ca1#82ffa41d80a4e8a278e2aa903411c6683d6de1f6"
   dependencies:
     "@antfu/ni" "0.21.12"
-    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125208b69633b39bee5355f5a97807cbae39"
-    "@faststore/core" "https://pkg.pr.new/vtex/faststore/@faststore/core@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@cf12ca17724329eddc9c9865932adc00fe79b602"
+    "@faststore/core" "https://pkg.pr.new/vtex/faststore/@faststore/core@cf12ca17724329eddc9c9865932adc00fe79b602"
     "@graphql-codegen/cli" "6.1.1"
     "@graphql-tools/merge" "9.1.1"
     "@graphql-tools/utils" "10.10.1"
@@ -723,16 +723,16 @@
     prettier "^3.1.0"
     resolve-pkg "^3.0.0"
 
-"@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@5119125", "@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@cf12ca1", "@faststore/components@https://pkg.pr.new/vtex/faststore/@faststore/components@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/components@5119125#be0500160b952f4cb06830c3fc47d7cddf765cbf"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/components@cf12ca1#be0500160b952f4cb06830c3fc47d7cddf765cbf"
   dependencies:
     react-intersection-observer "^8.32.5"
     react-swipeable "^7.0.0"
 
-"@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@5119125", "@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@cf12ca1", "@faststore/core@https://pkg.pr.new/vtex/faststore/@faststore/core@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/core@5119125#7c9c2311e030fa88aad2625d9ba832f6d62782bb"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/core@cf12ca1#625b4bc10b074ccaa82a7d172f9d61f96edb314f"
   dependencies:
     "@antfu/ni" "0.21.12"
     "@builder.io/partytown" "^0.6.1"
@@ -740,11 +740,11 @@
     "@envelop/graphql-jit" "^11"
     "@envelop/parser-cache" "^10"
     "@envelop/validation-cache" "^10"
-    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@5119125208b69633b39bee5355f5a97807cbae39"
-    "@faststore/diagnostics" "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125208b69633b39bee5355f5a97807cbae39"
-    "@faststore/lighthouse" "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@5119125208b69633b39bee5355f5a97807cbae39"
-    "@faststore/sdk" "https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125208b69633b39bee5355f5a97807cbae39"
-    "@faststore/ui" "https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/api" "https://pkg.pr.new/vtex/faststore/@faststore/api@cf12ca17724329eddc9c9865932adc00fe79b602"
+    "@faststore/diagnostics" "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@cf12ca17724329eddc9c9865932adc00fe79b602"
+    "@faststore/lighthouse" "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@cf12ca17724329eddc9c9865932adc00fe79b602"
+    "@faststore/sdk" "https://pkg.pr.new/vtex/faststore/@faststore/sdk@cf12ca17724329eddc9c9865932adc00fe79b602"
+    "@faststore/ui" "https://pkg.pr.new/vtex/faststore/@faststore/ui@cf12ca17724329eddc9c9865932adc00fe79b602"
     "@graphql-codegen/cli" "6.1.1"
     "@graphql-codegen/client-preset" "4.2.6"
     "@graphql-codegen/typescript" "4.0.7"
@@ -788,9 +788,9 @@
     swr "^2.2.5"
     use-sync-external-store "^1.6.0"
 
-"@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125", "@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@cf12ca1", "@faststore/diagnostics@https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@5119125#a3920402809b3f71796e9c8ab2b447bc14cae4d7"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/diagnostics@cf12ca1#43bef59dd312d173b1d3fdb06e880868a0281828"
   dependencies:
     "@grpc/grpc-js" "^1.14.4"
     "@opentelemetry/api" "^1.9.0"
@@ -798,29 +798,30 @@
     "@opentelemetry/exporter-logs-otlp-grpc" "^0.219.0"
     "@opentelemetry/exporter-trace-otlp-grpc" "^0.219.0"
     "@opentelemetry/instrumentation-http" "^0.219.0"
+    "@opentelemetry/instrumentation-undici" "^0.29.0"
     "@opentelemetry/resources" "^2.8.0"
     "@opentelemetry/sdk-logs" "^0.219.0"
     "@opentelemetry/sdk-node" "^0.219.0"
     "@opentelemetry/sdk-trace-node" "^2.8.0"
     "@vtex/diagnostics-semconv" "^5.1.1"
 
-"@faststore/lighthouse@https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/lighthouse@https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@5119125208b69633b39bee5355f5a97807cbae39#ebc5327c27ecd975227cd55e90d64c53e613b1c2"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/lighthouse@cf12ca17724329eddc9c9865932adc00fe79b602#ebc5327c27ecd975227cd55e90d64c53e613b1c2"
 
-"@faststore/sdk@https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/sdk@https://pkg.pr.new/vtex/faststore/@faststore/sdk@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/sdk@5119125208b69633b39bee5355f5a97807cbae39#4d907e0a44310d2129f5e873739b15c6c1de212b"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/sdk@cf12ca17724329eddc9c9865932adc00fe79b602#4d907e0a44310d2129f5e873739b15c6c1de212b"
   dependencies:
     fast-deep-equal "^3.1.3"
     idb-keyval "^6"
     zustand "^5.0.5"
 
-"@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125", "@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125208b69633b39bee5355f5a97807cbae39":
+"@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@cf12ca1", "@faststore/ui@https://pkg.pr.new/vtex/faststore/@faststore/ui@cf12ca17724329eddc9c9865932adc00fe79b602":
   version "4.3.0-dev.2"
-  resolved "https://pkg.pr.new/vtex/faststore/@faststore/ui@5119125#74a094a14f6ff84950c866f519c643dd5dc2fa73"
+  resolved "https://pkg.pr.new/vtex/faststore/@faststore/ui@cf12ca1#d6e51100a29ad7dd694b4a8a8b2da4bcc50142bf"
   dependencies:
-    "@faststore/components" "https://pkg.pr.new/vtex/faststore/@faststore/components@5119125208b69633b39bee5355f5a97807cbae39"
+    "@faststore/components" "https://pkg.pr.new/vtex/faststore/@faststore/components@cf12ca17724329eddc9c9865932adc00fe79b602"
     include-media "^2.0.0"
     modern-normalize "^1.1.0"
     react-swipeable "^7.0.0"
@@ -2451,7 +2452,7 @@
   resolved "https://registry.yarnpkg.com/@opentelemetry/context-async-hooks/-/context-async-hooks-2.8.0.tgz#24381ef388bc28d53fa8dad72dfd1429acc82016"
   integrity sha512-/3FIraneMcng67SUJCxvyInk/oxzwsxyadufk0wwfOBLf5wqtAGX4MoQASwSbndBPeARzBryUM9Azr5kHIdWLw==
 
-"@opentelemetry/core@2.8.0":
+"@opentelemetry/core@2.8.0", "@opentelemetry/core@^2.0.0":
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/@opentelemetry/core/-/core-2.8.0.tgz#f6e86de3688bdb54a6ca8f4935363a5b588ae91c"
   integrity sha512-hd1Lfh8p545nNz+jq1Ejfz+Mn1hyLuxYn1YzTfFNrxr8urEWMNQLPf1Th8kjOH+HxwawCrtgBp8JpBUR4ZSgww==
@@ -2596,7 +2597,16 @@
     "@opentelemetry/semantic-conventions" "^1.29.0"
     forwarded-parse "2.1.2"
 
-"@opentelemetry/instrumentation@0.219.0":
+"@opentelemetry/instrumentation-undici@^0.29.0":
+  version "0.29.0"
+  resolved "https://registry.yarnpkg.com/@opentelemetry/instrumentation-undici/-/instrumentation-undici-0.29.0.tgz#271745a5acd112b73e75f0a06ec39f0493fab4f7"
+  integrity sha512-SnA+0XgGc595jtnwFVfWy7Vgfr5hle4D5YKIlm0U4z8aK9YoCZVUn1xAkVZ2evaJyykiDF50FBzr1XZ0uj8CPA==
+  dependencies:
+    "@opentelemetry/core" "^2.0.0"
+    "@opentelemetry/instrumentation" "^0.219.0"
+    "@opentelemetry/semantic-conventions" "^1.24.0"
+
+"@opentelemetry/instrumentation@0.219.0", "@opentelemetry/instrumentation@^0.219.0":
   version "0.219.0"
   resolved "https://registry.yarnpkg.com/@opentelemetry/instrumentation/-/instrumentation-0.219.0.tgz#84399affd8ee4a12cb199f325c4858654d8dedee"
   integrity sha512-X5t7I8GyIO9rmGHwoedZLREpQqrF1WW2nxzNNym6HOKpFiE+rvqV3ngC0xcZVO2YwIGf3KKmRdWrYwdwz3H9RQ==
@@ -2725,7 +2735,7 @@
     "@opentelemetry/core" "2.8.0"
     "@opentelemetry/sdk-trace-base" "2.8.0"
 
-"@opentelemetry/semantic-conventions@^1.29.0":
+"@opentelemetry/semantic-conventions@^1.24.0", "@opentelemetry/semantic-conventions@^1.29.0":
   version "1.41.1"
   resolved "https://registry.yarnpkg.com/@opentelemetry/semantic-conventions/-/semantic-conventions-1.41.1.tgz#b04e7151c5913a7a006d4f465479da75efb98a7a"
   integrity sha512-/UhIkaZgPutTFmQ7RnIJGgDXZmtEJ7Dvi86xNTFWcnRxVRNk/aotsqDJYeEvDP+FSMB2SdW+pQzNMcWP0rwuNA==
